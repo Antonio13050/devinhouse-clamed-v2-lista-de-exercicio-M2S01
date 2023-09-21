@@ -32,9 +32,5 @@ public class Exerc6 {
            System.out.println("O voto é proibido");
        }
 
-//        Se o usuário tiver 16, 17, ou mais de 59 anos, o voto é opcional.
-//        Entre 18 e 59 anos, o voto é obrigatório.
-//        Abaixo de 16, o voto é proibido.
-//        Informe ao usuário a situação de voto.
      }
 }
